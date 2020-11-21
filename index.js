@@ -33,4 +33,4 @@ message.channel.send(Embed);
   }
 })
 
-client.login(process.env.TOKEN);
+client.login("NzM2ODYzNzQ1MjIwODA0Njc4.Xx0_1w.NmbnFQOPaKGs8ywWxFFFKndMx9k") 
